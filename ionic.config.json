@@ -1,0 +1,7 @@
+{
+  "name": "audioTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
